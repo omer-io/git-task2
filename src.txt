@@ -3,3 +3,4 @@ this is task 2 main branch
 this is task 2 feature 1 branch
 this is task 2 feature 1 branch
 this is task 2 feature 1 branch
+this is task 2 feature 2 branch
